@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zakariya zouazou</h1>
-<h3 align="center">Analytics-Driven Web Developer</h3>
+<h3 align="center">Web Developer</h3>
 <img align="right" alt="CodingZakariyaZouazou" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zakariyazouazou&label=Profile%20views&color=0e75b6&style=flat" alt="zakariyazouazou" /> </p>
