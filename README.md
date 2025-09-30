@@ -8,11 +8,9 @@
 
 - 📝 I regularly write articles on [linkedin.com/in/zakariya-zouazou-920b93258](linkedin.com/in/zakariya-zouazou-920b93258)
 
-- 💬 Ask me about **Software developer , Data analytic**
-
 - 📫 How to reach me **zakariyazouazou@gmail.com**
 
-- Hi, my name is Zakariya Zouazou, and I am a developer dedicated to building complete and effective software solutions. My passion lies in architecting entire systems from the ground up to solve complex challenges, with a sharp focus on creating an exceptional user experience. I have engineered comprehensive platforms including a sophisticated property management system and a large-scale professional networking application. A core part of my process is ensuring high performance and responsiveness. I specialize in significantly improving application speed and backend efficiency to deliver a fluid and intuitive experience for the end-user. I take great pride in delivering robust and reliable software, and you can count on my commitment to quality from concept to completion.
+- 💬 Hi, my name is Zakariya Zouazou, and I am a developer dedicated to building complete and effective software solutions. My passion lies in architecting entire systems from the ground up to solve complex challenges, with a sharp focus on creating an exceptional user experience. I have engineered comprehensive platforms including a sophisticated property management system and a large-scale professional networking application. A core part of my process is ensuring high performance and responsiveness. I specialize in significantly improving application speed and backend efficiency to deliver a fluid and intuitive experience for the end-user. I take great pride in delivering robust and reliable software, and you can count on my commitment to quality from concept to completion.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
