@@ -4,17 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zakariyazouazou&label=Profile%20views&color=0e75b6&style=flat" alt="zakariyazouazou" /> </p>
 
-- 🤝 I’m looking for help with **React native**
-
-- 👨‍💻 All of my projects are available at [https://zakariyazouazou.onrender.com/](https://zakariyazouazou.onrender.com/)
+- 👨‍💻 All of my projects are available at [[https://zakariyazouazou.onrender.com/](https://zakariyazouazou.com/)]
 
 - 📝 I regularly write articles on [linkedin.com/in/zakariya-zouazou-920b93258](linkedin.com/in/zakariya-zouazou-920b93258)
 
-- 💬 Ask me about **Data analytic , MERN Stack**
+- 💬 Ask me about **Software Devlope , Data analytic**
 
 - 📫 How to reach me **zakariyazouazou@gmail.com**
 
-- 📄 Know about my experiences [Hi, my name is Zakariya Zouazou, and I’m a web developer with experience working in different companies. I specialize in deploying responsive and visually appealing designs for both mobile and web applications using the latest technologies. I’m passionate about creating user-friendly interfaces that provide an enjoyable experience for users. I take pride in my work and always strive to deliver high-quality results. You can count on me to provide a guarantee for my work.](Hi, my name is Zakariya Zouazou, and I’m a web developer with experience working in different companies. I specialize in deploying responsive and visually appealing designs for both mobile and web applications using the latest technologies. I’m passionate about creating user-friendly interfaces that provide an enjoyable experience for users. I take pride in my work and always strive to deliver high-quality results. You can count on me to provide a guarantee for my work.)
+- Hi, my name is Zakariya Zouazou, and I am a developer dedicated to building complete and effective software solutions. My passion lies in architecting entire systems from the ground up to solve complex challenges, with a sharp focus on creating an exceptional user experience. I have engineered comprehensive platforms including a sophisticated property management system and a large-scale professional networking application. A core part of my process is ensuring high performance and responsiveness. I specialize in significantly improving application speed and backend efficiency to deliver a fluid and intuitive experience for the end-user. I take great pride in delivering robust and reliable software, and you can count on my commitment to quality from concept to completion.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
