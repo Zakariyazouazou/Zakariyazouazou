@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zakariyazouazou&label=Profile%20views&color=0e75b6&style=flat" alt="zakariyazouazou" /> </p>
 
-- 👨‍💻 All of my projects are available at [[https://zakariyazouazou.onrender.com/](https://zakariyazouazou.com/)]
+- 👨‍💻 All of my projects are available at [[https:/zakariyazouazou.com/](https://zakariyazouazou.com/)]
 
 - 📝 I regularly write articles on [linkedin.com/in/zakariya-zouazou-920b93258](linkedin.com/in/zakariya-zouazou-920b93258)
 
